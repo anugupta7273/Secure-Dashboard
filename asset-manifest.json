@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Secure-Dashboard/static/css/main.98149abb.css",
+    "main.js": "/Secure-Dashboard/static/js/main.75193e32.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Secure-Dashboard/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Secure-Dashboard/index.html",
+    "main.98149abb.css.map": "/Secure-Dashboard/static/css/main.98149abb.css.map",
+    "main.75193e32.js.map": "/Secure-Dashboard/static/js/main.75193e32.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Secure-Dashboard/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98149abb.css",
+    "static/js/main.75193e32.js"
+  ]
+}
